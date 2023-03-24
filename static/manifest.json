@@ -14,18 +14,6 @@
 			"type": "image/png",
 			"sizes": "192x192",
 			"purpose": "any"
-		},
-		{
-			"src": "/images/icon-512-mask.png",
-			"type": "image/png",
-			"sizes": "512x512",
-			"purpose": "maskable"
-		},
-		{
-			"src": "/images/icon-192-mask.png",
-			"type": "image/png",
-			"sizes": "192x192",
-			"purpose": "maskable"
 		}
 	],
 	"id": "/?source=pwa",

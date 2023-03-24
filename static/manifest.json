@@ -1,0 +1,38 @@
+{
+	"short_name": "Starter Kit",
+	"name": "Starter Kit PWA",
+	"description": "An opinionated SvelteKit starter template with TypeScript & Tailwind.",
+	"icons": [
+		{
+			"src": "/images/icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any"
+		},
+		{
+			"src": "/images/icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any"
+		},
+		{
+			"src": "/images/icon-512-mask.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/icon-192-mask.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable"
+		}
+	],
+	"id": "/?source=pwa",
+	"start_url": "/?source=pwa",
+	"scope": "/",
+	"background_color": "#18181b",
+	"theme_color": "#ffffff",
+	"display": "standalone",
+	"orientation": "portrait"
+}

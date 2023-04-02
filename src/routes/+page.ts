@@ -1,5 +1,6 @@
 import type { PageMetadata } from '@kyleulman/lib';
 import type { PageLoad } from './$types';
+import { content } from '../content';
 
 export const load = (({ url }) => {
 	const page: PageMetadata = {
@@ -9,6 +10,7 @@ export const load = (({ url }) => {
 	};
 
 	return {
-		page: page
+		page: page,
+		content: content.home
 	};
 }) satisfies PageLoad;

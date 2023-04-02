@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { content } from "../content";
+	export let data;
 </script>
 
-<h1>{content.home.hero.heading}</h1>
-<p>{content.home.hero.description}</p>
+<h1>{data.content.hero.heading}</h1>
+<p>{data.content.hero.description}</p>

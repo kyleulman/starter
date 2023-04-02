@@ -1,6 +1,6 @@
-# Starter Kit
+# SvelteKit Starter
 
-An opinionated SvelteKit starter template with TypeScript & Tailwind.
+An opinionated SvelteKit template with TypeScript & Tailwind.
 
 What's included:
 

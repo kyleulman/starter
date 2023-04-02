@@ -1,7 +1,7 @@
 {
-	"short_name": "Starter Kit",
-	"name": "Starter Kit PWA",
-	"description": "An opinionated SvelteKit starter template with TypeScript & Tailwind.",
+	"short_name": "SvelteKit Starter",
+	"name": "SvelteKit Starter PWA",
+	"description": "An opinionated SvelteKit template with TypeScript & Tailwind.",
 	"icons": [
 		{
 			"src": "/images/icon-512.png",

@@ -10,5 +10,5 @@ What's included:
 - Tailwind CSS
 - PWA support
 - Share card placeholders
-- `@kyleulman/lib` - My component library, preinstalled
+- `@kyleulman/lib`
   - A head component for managing page metadata

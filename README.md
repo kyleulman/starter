@@ -2,7 +2,7 @@
 
 An opinionated SvelteKit template with TypeScript & Tailwind.
 
-What's included:
+## What's included:
 
 - TypeScript
 - Prettier
@@ -10,5 +10,4 @@ What's included:
 - Tailwind CSS
 - PWA support
 - Share card placeholders
-- `@kyleulman/lib`
-  - A head component for managing page metadata
+- A head component for managing page metadata ([@kyuisonline/workbench](https://www.npmjs.com/package/@kyuisonline/workbench))

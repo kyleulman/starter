@@ -4,20 +4,20 @@
 	"description": "An opinionated SvelteKit template with TypeScript & Tailwind.",
 	"icons": [
 		{
-			"src": "/images/icon-512.png",
-			"type": "image/png",
+			"src": "/images/icon-512.svg",
+			"type": "image/svg+xml",
 			"sizes": "512x512"
 		},
 		{
-			"src": "/images/icon-192.png",
-			"type": "image/png",
+			"src": "/images/icon-192.svg",
+			"type": "image/svg+xml",
 			"sizes": "192x192"
 		}
 	],
 	"id": "/?source=pwa",
 	"start_url": "/?source=pwa",
 	"scope": "/",
-	"background_color": "#18181b",
+	"background_color": "#313944",
 	"theme_color": "#ffffff",
 	"display": "standalone",
 	"orientation": "portrait"

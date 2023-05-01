@@ -1,6 +1,10 @@
 <script lang="ts">
-	export let data;
+	import type { PageData } from './$types';
+
+	export let data: PageData;
 </script>
 
-<h1>{data.content.hero.heading}</h1>
-<p>{data.content.hero.description}</p>
+<heading>
+	<h1>{data.content.hero.heading}</h1>
+	<p>{@html data.content.hero.detail}</p>
+</heading>
